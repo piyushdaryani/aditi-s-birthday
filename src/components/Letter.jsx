@@ -134,7 +134,7 @@ export function Letter({ onReplay }) {
 
         {/* Section 1: Where she started */}
         <p className="reveal-on-scroll opacity-0 translate-y-6 transition-all duration-700 ease-out text-[17px] sm:text-[18px] leading-[1.65] text-stone-800 font-normal mb-4">
-          Happy Birthday! As another year turns around the sun, I wanted to take a moment to celebrate everything that makes you so genuinely remarkable. The world moves so fast, but today belongs completely to you.
+          Happy Birthday Pinky! As another year turns around the sun, I wanted to take a moment to celebrate the person you are, the person you’ve become, and all the little things that make you so genuinely special. The world moves so fast, but today belongs completely to you.
         </p>
 
         {/* PHOTO 6 — Childhood photo (Prominent) */}
@@ -146,7 +146,7 @@ export function Letter({ onReplay }) {
 
         {/* Section 2: Who she became & Her personality */}
         <p className="reveal-on-scroll opacity-0 translate-y-6 transition-all duration-700 ease-out text-[17px] sm:text-[18px] leading-[1.65] text-stone-800 font-normal mb-4">
-          Thinking back over the memories we’ve shared always brings the biggest smile to my face. Whether it’s talking for hours about our wildest dreams or just sharing laughs over the smallest things, your presence is an absolute gift.
+          Thinking back over the memories we’ve shared always brings the biggest smile to my face. Whether it’s talking for hours about our wildest dreams or just sharing laughs over the smallest things, your presence is an absolute gift to me.
         </p>
 
         {/* PHOTO 5 — Happy/natural Aditi photo */}
@@ -194,7 +194,7 @@ export function Letter({ onReplay }) {
 
         {/* Section 6: The friendship we share (Piyush & Aditi) */}
         <p className="reveal-on-scroll opacity-0 translate-y-6 transition-all duration-700 ease-out text-[17px] sm:text-[18px] leading-[1.65] text-stone-800 font-normal mb-4">
-          Through all the seasons, the late-night talks, the spontaneous plans, and the quiet comfort of knowing someone truly gets you, having you as a friend has been one of the best parts of my journey.
+          Through all the seasons, the late-night talks, the spontaneous plans, and the quiet comfort of knowing someone truly gets you, having you as a Best friend has been one of the best parts of my journey.
         </p>
 
         {/* PHOTO 9 — Piyush and Aditi together (Prominent) */}
