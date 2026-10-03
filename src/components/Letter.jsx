@@ -128,7 +128,7 @@ export function Letter({ onReplay }) {
           </div>
 
           <h1 className="font-handwriting text-3xl sm:text-4xl md:text-5xl font-bold text-amber-950 tracking-tight leading-tight">
-            {letter?.greeting || 'To Aditi, one of my favourite people,'}
+            {letter?.greeting || 'To Aditi, my favourite person and an even better friend,'}
           </h1>
         </header>
 
