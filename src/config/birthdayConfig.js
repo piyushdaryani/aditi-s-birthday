@@ -36,7 +36,7 @@ export const birthdayConfig = {
 
   // Handwritten Scrapbook Letter & 7 Selected Photographs
   letter: {
-    greeting: "To Aditi, one of my favourite people,",
+    greeting: "To Aditi, my favourite person and an even better friend,",
     signature: "— Piyush",
     photos: [
       {
