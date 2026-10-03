@@ -73,7 +73,7 @@ export const birthdayConfig = {
       {
         id: 8,
         src: "/photos/aditi-family-08.jpeg",
-        caption: "The people who make a place feel like home.",
+        caption: "The people who are your everything, your strength, and your home.",
         alt: "Aditi with her family",
         rotation: "rotate-1.5",
         tapeAngle: "1deg",
